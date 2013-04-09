@@ -1,0 +1,11 @@
+{
+    "code": "ukr",
+    "name": "Ukrainian",
+    "version": "729a2bd1a2cf81c314b8b0f2057260019f056149",
+    "files": [
+        {
+            "file": "ukr.traineddata",
+            "md5": "81f6ce7d0bd1565782b369c727443d6f"
+        }
+    ]
+}
