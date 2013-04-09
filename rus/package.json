@@ -1,0 +1,35 @@
+{
+    "code": "rus",
+    "name": "Russian",
+    "version": "5caa3f1c5d46642e7c0c17ecd7cc4fe2a4aa2b0b",
+    "files": [
+        {
+            "file": "rus.cube.fold",
+            "md5": "6160cf26d7b65375657dbc0ccb8193e4"
+        },
+        {
+            "file": "rus.cube.lm",
+            "md5": "431577782773e0be16f7f6645850ed35"
+        },
+        {
+            "file": "rus.cube.nn",
+            "md5": "5127a712675c7318f9e326a154b5d0bf"
+        },
+        {
+            "file": "rus.cube.params",
+            "md5": "be654fd4382592a50e4b9f91b625e47b"
+        },
+        {
+            "file": "rus.cube.size",
+            "md5": "15e328c4a52e1338dfb3d26a17e2e034"
+        },
+        {
+            "file": "rus.cube.word-freq",
+            "md5": "5b95f7372ba59e2c9ae29f6caa622cf1"
+        },
+        {
+            "file": "rus.traineddata",
+            "md5": "fc0d17446fac267e5f074d2700301057"
+        }
+    ]
+}

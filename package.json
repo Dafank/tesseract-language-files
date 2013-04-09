@@ -3,8 +3,12 @@
         {
             "code": "ukr",
             "name": "Ukrainian",
-            "uri": "/ukr",
             "version": "729a2bd1a2cf81c314b8b0f2057260019f056149"
+        },
+        {
+            "code": "rus",
+            "name": "Russian",
+            "version": "5caa3f1c5d46642e7c0c17ecd7cc4fe2a4aa2b0b"
         }
     ]
 }
