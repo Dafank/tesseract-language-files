@@ -1,0 +1,43 @@
+{
+    "code": "eng",
+    "name": "English",
+    "version": "989ed4c3a5b246d7353893e466c353099d8b73a1",
+    "files": [
+        {
+            "file": "eng.cube.bigrams",
+            "md5": "f5c0f117a7bd7a60a76e4b4da9f9ae40"
+        },
+        {
+            "file": "eng.cube.fold",
+            "md5": "339bb00e0f5d6edcc1919401d1472abf"
+        },
+        {
+            "file": "eng.cube.lm",
+            "md5": "9095f90874775ab67225112b03653057"
+        },
+        {
+            "file": "eng.cube.nn",
+            "md5": "7d4a551f859e37b4825f8c50cc5e1c28"
+        },
+        {
+            "file": "eng.cube.params",
+            "md5": "4b2f4d8aa264d923a88d1a384b1b54c1"
+        },
+        {
+            "file": "eng.cube.size",
+            "md5": "07728af8e662c49078a1e3b8a607eb3a"
+        },
+        {
+            "file": "eng.cube.word-freq",
+            "md5": "a9d657b040db4366e1fbb6c75bb5ae8b"
+        },
+        {
+            "file": "eng.tesseract_cube.nn",
+            "md5": "a24b4909e1582f30aae24064f933ff20"
+        },
+        {
+            "file": "eng.traineddata",
+            "md5": "f4b86e0b7eb03c682f0e5e6519e02d32"
+        }
+    ]
+}

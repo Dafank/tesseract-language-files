@@ -9,6 +9,11 @@
             "code": "rus",
             "name": "Russian",
             "version": "5caa3f1c5d46642e7c0c17ecd7cc4fe2a4aa2b0b"
+        },
+        {
+          "code": "eng",
+          "name": "English",
+          "version": "989ed4c3a5b246d7353893e466c353099d8b73a1"
         }
     ]
 }
