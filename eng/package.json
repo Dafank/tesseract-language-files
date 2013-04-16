@@ -5,39 +5,48 @@
     "files": [
         {
             "file": "eng.cube.bigrams",
-            "md5": "f5c0f117a7bd7a60a76e4b4da9f9ae40"
+            "md5": "f5c0f117a7bd7a60a76e4b4da9f9ae40",
+            "size": 171918 
         },
         {
             "file": "eng.cube.fold",
-            "md5": "339bb00e0f5d6edcc1919401d1472abf"
+            "md5": "339bb00e0f5d6edcc1919401d1472abf",
+            "size": 38
         },
         {
             "file": "eng.cube.lm",
-            "md5": "9095f90874775ab67225112b03653057"
+            "md5": "9095f90874775ab67225112b03653057",
+            "size": 181
         },
         {
             "file": "eng.cube.nn",
-            "md5": "7d4a551f859e37b4825f8c50cc5e1c28"
+            "md5": "7d4a551f859e37b4825f8c50cc5e1c28",
+            "size": 857304
         },
         {
             "file": "eng.cube.params",
-            "md5": "4b2f4d8aa264d923a88d1a384b1b54c1"
+            "md5": "4b2f4d8aa264d923a88d1a384b1b54c1",
+            "size": 254
         },
         {
             "file": "eng.cube.size",
-            "md5": "07728af8e662c49078a1e3b8a607eb3a"
+            "md5": "07728af8e662c49078a1e3b8a607eb3a",
+            "size": 13020078
         },
         {
             "file": "eng.cube.word-freq",
-            "md5": "a9d657b040db4366e1fbb6c75bb5ae8b"
+            "md5": "a9d657b040db4366e1fbb6c75bb5ae8b",
+            "size": 2444187
         },
         {
             "file": "eng.tesseract_cube.nn",
-            "md5": "a24b4909e1582f30aae24064f933ff20"
+            "md5": "a24b4909e1582f30aae24064f933ff20",
+            "size": 996
         },
         {
             "file": "eng.traineddata",
-            "md5": "f4b86e0b7eb03c682f0e5e6519e02d32"
+            "md5": "f4b86e0b7eb03c682f0e5e6519e02d32",
+            "size": 21876572
         }
     ]
 }

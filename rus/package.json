@@ -5,31 +5,38 @@
     "files": [
         {
             "file": "rus.cube.fold",
-            "md5": "6160cf26d7b65375657dbc0ccb8193e4"
+            "md5": "6160cf26d7b65375657dbc0ccb8193e4",
+            "size": 139 
         },
         {
             "file": "rus.cube.lm",
-            "md5": "431577782773e0be16f7f6645850ed35"
+            "md5": "431577782773e0be16f7f6645850ed35",
+            "size": 278
         },
         {
             "file": "rus.cube.nn",
-            "md5": "5127a712675c7318f9e326a154b5d0bf"
+            "md5": "5127a712675c7318f9e326a154b5d0bf",
+            "size": 912800
         },
         {
             "file": "rus.cube.params",
-            "md5": "be654fd4382592a50e4b9f91b625e47b"
+            "md5": "be654fd4382592a50e4b9f91b625e47b",
+            "size": 317
         },
         {
             "file": "rus.cube.size",
-            "md5": "15e328c4a52e1338dfb3d26a17e2e034"
+            "md5": "15e328c4a52e1338dfb3d26a17e2e034",
+            "size": 15241687
         },
         {
             "file": "rus.cube.word-freq",
-            "md5": "5b95f7372ba59e2c9ae29f6caa622cf1"
+            "md5": "5b95f7372ba59e2c9ae29f6caa622cf1",
+            "size": 7064074
         },
         {
             "file": "rus.traineddata",
-            "md5": "fc0d17446fac267e5f074d2700301057"
+            "md5": "fc0d17446fac267e5f074d2700301057",
+            "size": 15636141
         }
     ]
 }
